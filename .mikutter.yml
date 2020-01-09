@@ -1,0 +1,12 @@
+---
+slug: :datasource_saved_search
+depends:
+  mikutter: 4.0.2
+  plugin:
+  - twitter
+  - extract
+  - uitranslator
+version: '1.0'
+author: shibafu528
+name: 保存した検索のデータソース
+description: Twitterの保存した検索をデータソース化します。
